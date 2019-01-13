@@ -1,0 +1,19 @@
+# YounPets的宠物调研系统
+## 模块分为三个部分
+* younpets_portal_survey_parent(调研系统的父模块)
+    * 定义了dependencies(依赖),目的导入各种包
+    * 定义了properties,目的集中定义依赖包的版本号，统一管理
+    * 定义了build,目的给项目定义资源以及插件
+    * 目的为其他子模块提供继承,方便统一管理
+* younpets_portal_survey_common(调研系统的通用模块)
+    * 定义了各种数据模型,方便为前端提供恰到好处的数据结构
+    * 防止加载过多数据造成的安全问题(被爬)
+* younpets_portal_survey_main(调研系统的主模块)
+    * 该模块为web系统，当中又分为四个模块
+        * younpets_portal_survey_main_pojo(模型,jar)
+        * younpets_portal_survey_main_mapper(映射,jar)
+        * younpets_portal_survey_main_service(接口,jar)
+        * younpets_portal_survey_main_web(控制器,jar)
+    * 该模块实现了用户参与调研之后的数据存储过程,旨在搜集用户信息
+    * 为初步业务确定做以一定参考与指导作用
+        

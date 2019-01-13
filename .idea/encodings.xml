@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_main/younpets_portal_survey_main_mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_main/younpets_portal_survey_main_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_main/younpets_portal_survey_main_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_main/younpets_portal_survey_main_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/younpets_portal_survey/younpets_portal_survey_parent" charset="UTF-8" />
+  </component>
+</project>
