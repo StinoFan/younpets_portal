@@ -28,7 +28,7 @@
         <!--MySQL版本-->
         <mysql.version>5.1.47</mysql.version>
         <!--json版本-->
-        <jackson-databind>2.9.7</jackson-databind>
+        <jackson-databind>2.8.7</jackson-databind>
         <!--maven资源插件-->
         <maven-resources-plugin>3.1.0</maven-resources-plugin>
         <!--maven编译插件-->
