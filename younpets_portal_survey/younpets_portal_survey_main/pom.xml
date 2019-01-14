@@ -10,7 +10,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.younpets</groupId>
     <artifactId>younpets_portal_survey_main</artifactId>
     <packaging>pom</packaging>
     <modules>
