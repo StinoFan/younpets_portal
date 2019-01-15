@@ -29,7 +29,6 @@ public class PetInfoServiceImpl implements PetInfoService {
         PetInfo petInfo = new PetInfo();
         petInfo.setPetName(name);
         int insert = petInfoMapper.insert(petInfo);
-        System.out.println(insert+"-------------------------------");
         return insert;
     }
 }
